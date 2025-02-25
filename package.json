@@ -10,7 +10,9 @@
   "volta": {
     "node": "18.17.1"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+  "repository": {
+    "url": "https://github.com/roelvdwater/getting-started-example",
+    "directory": "packages/header",
+    "type": "git"
   }
 }

@@ -23,5 +23,8 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "821d1e4f93032de7282c4d20b6ee0e8518e0b3d9"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "gitHead": "2c70927d9a62ecabadd319159bae974a459bc761"
 }
