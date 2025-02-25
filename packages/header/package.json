@@ -24,7 +24,7 @@
     "rimraf": "^3.0.2"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "url": "git+https://github.com/roelvdwater/purchasing-react-components.git"
   },
-  "gitHead": "2c70927d9a62ecabadd319159bae974a459bc761"
+  "gitHead": "b2fd114fc638db82aa263d6a6b9013736bc6ed78"
 }
