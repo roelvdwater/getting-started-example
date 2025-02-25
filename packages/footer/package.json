@@ -23,5 +23,10 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "2c70927d9a62ecabadd319159bae974a459bc761"
+  "repository": {
+    "url": "https://github.com/roelvdwater/getting-started-example",
+    "directory": "packages/footer",
+    "type": "git"
+  },
+  "gitHead": "a7e7f27f2beb488d517081f7d90d9fe292d7f119"
 }

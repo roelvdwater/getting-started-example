@@ -4,6 +4,10 @@
   "workspaces": [
     "packages/*"
   ],
+  "repository": {
+    "url": "https://github.com/roelvdwater/getting-started-example",
+    "type": "git"
+  },
   "devDependencies": {
     "lerna": "^7.1.5"
   },
