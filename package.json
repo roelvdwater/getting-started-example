@@ -9,5 +9,10 @@
   },
   "volta": {
     "node": "18.17.1"
+  },
+  "repository": {
+    "url": "https://github.com/roelvdwater/getting-started-example",
+    "directory": "packages/header",
+    "type": "git"
   }
 }
