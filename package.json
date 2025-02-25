@@ -9,10 +9,5 @@
   },
   "volta": {
     "node": "18.17.1"
-  },
-  "repository": {
-    "url": "git+https://github.com/roelvdwater/purchasing-react-components.git",
-    "directory": "packages/header",
-    "type": "git"
   }
 }

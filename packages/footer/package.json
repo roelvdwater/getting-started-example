@@ -1,6 +1,6 @@
 {
   "name": "footer",
-  "version": "1.0.5",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -23,8 +23,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
-  "gitHead": "b2fd114fc638db82aa263d6a6b9013736bc6ed78"
+  "gitHead": "2c70927d9a62ecabadd319159bae974a459bc761"
 }
